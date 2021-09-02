@@ -1,27 +1,27 @@
-## First Name Last Name
+## Demetrius Fields
 
-### Term Year 
+### Fall 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Introduction to Programming Using Python 
 
-- Course 3
+- Cloud Infrastructure and Services
 
-- Course 4
+-  Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Basketball
 
-- Thing 2
+- Success
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Campus life as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
