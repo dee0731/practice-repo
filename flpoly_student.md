@@ -22,6 +22,13 @@ I am _passionate about_:
 
 - Campus life as shown in this website <https://www.floridapoly.edu>
 
+| Name                                       | Prefix     | Number    | Credit |
+|--------------------------------------------|------------|-----------|--------|
+|_Introduction to Data Science_              |**COP**     |**2073**   | 3      |
+|_Introduction to Programming Using Python_  |**COP**     |**2034**   | 3      |
+|_Cloud Infrastructure and Services_         |**CTS**     |**2375**   | 3      |
+|_Analytic Geometry and Calculus 1_          |**MAC**     |**2311**   | 4      |
+
 ***
 
-> Last modified: 2021/09/02
+> Last modified: 2021/09/19
